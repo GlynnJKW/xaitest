@@ -50,7 +50,7 @@ layout.setSpacing(2, 2, 1)
     .apply();
 
 let layout2 = new XAI.Layout(1,1,4);
-layout2.setSpacing(1, 1, 0.5)
+layout2.setSpacing(1, 1, 0.05)
     .addLayer(l0, l1, l2, l3)
     .moveToCenter();
 
