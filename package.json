@@ -9,7 +9,7 @@
   "author": "GlynnJKW",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.105.2"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "webpack": "^4.33.0",
